@@ -2090,8 +2090,12 @@ a, button, .item-overlay, .global-overlay, .pagination li .page-number, .btn, .s
 /*****************************
 23 - Components - Slider
 *****************************/
+.slider-content{
+  text-align: right;
+}
 .homepage-slider .single-slide {
   height: 790px;
+  text-align: right;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center; }
