@@ -273,9 +273,8 @@ a, a:hover, a:focus, a:active, button, button:focus, input, select, textarea, .s
   top: 0;
   width: 5%;
   height: 5%;
-  background-color: #ad1616; 
-  opacity: 10%;
-}
+  background-color: rgba(87, 0, 0, 0.5);
+ }
 
 .full-height {
   height: 100vh; }
@@ -2096,6 +2095,7 @@ a, button, .item-overlay, .global-overlay, .pagination li .page-number, .btn, .s
   text-align: left;
   padding:25px;
   background-color: white;
+  border-radius:5px;
 }
 .homepage-slider .single-slide {
   height: 790px;
