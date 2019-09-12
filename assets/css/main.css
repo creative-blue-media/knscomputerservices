@@ -273,7 +273,9 @@ a, a:hover, a:focus, a:active, button, button:focus, input, select, textarea, .s
   top: 0;
   width: 5%;
   height: 5%;
-  background-color: rgba(0, 34, 87, 0.5); }
+  background-color: #ad1616; 
+  opacity: 10%;
+}
 
 .full-height {
   height: 100vh; }
@@ -2091,11 +2093,13 @@ a, button, .item-overlay, .global-overlay, .pagination li .page-number, .btn, .s
 23 - Components - Slider
 *****************************/
 .slider-content{
-  text-align: right;
+  text-align: left;
+  padding:25px;
+  background-color: white;
 }
 .homepage-slider .single-slide {
   height: 790px;
-  text-align: right;
+  text-align: left;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center; }
