@@ -811,7 +811,7 @@ a, button, .item-overlay, .global-overlay, .pagination li .page-number, .btn, .s
   font-size: 36px;
   line-height: 1.2; }
   .page-title-area:after {
-    background-color: rgba(0, 0, 0, 0.7);
+    /* background-color: rgba(0, 0, 0, 0.7); */
     z-index: 1; }
   .page-title-area-2 {
     height: 60rem; }
